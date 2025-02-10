@@ -27,6 +27,8 @@ The following html can be used for the header, I'd recommend adding the resize e
 ### Content
 The `.content` class styles the element like the main section of an RS3 UI window.
 
+The `.panel` class styles an element as a panel within the content interface, for example item's pinned in the activity tracker.
+
 ### Button
 The `.button` class styles an element similar to the buttons at the bottom of RS3's inventory, equipment or prayer windows.
 
