@@ -12,5 +12,5 @@
 }
 
 .button:hover {
-  color: gold;
+  background-image: url("./assets/button-background-active.png");
 }
