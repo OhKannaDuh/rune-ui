@@ -24,6 +24,8 @@ The following html can be used for the header, I'd recommend adding the resize e
 </div>
 ```
 
+Optionally add `<div class="toolbar-settings"></div>` after to add a settings button.
+
 ### Content
 The `.content` class styles the element like the main section of an RS3 UI window.
 

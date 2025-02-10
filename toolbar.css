@@ -26,3 +26,12 @@
 .toolbar-close:hover {
   background-image: url("./assets/toolbar-close-active.png");
 }
+
+.toolbar-settings {
+  width: 12px;
+  background-image: url("./assets/toolbar-settings.png");
+}
+
+.toolbar-settings:hover {
+  background-image: url("./assets/toolbar-settings-active.png");
+}
