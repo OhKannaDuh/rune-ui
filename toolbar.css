@@ -6,23 +6,23 @@
 
 .toolbar-divet {
   width: 12px;
-  background-image: url("../assets/toolbar-divet.png");
+  background-image: url("./assets/toolbar-divet.png");
 }
 .toolbar-main {
   flex-grow: 1;
-  background-image: url("../assets/toolbar-background.png");
+  background-image: url("./assets/toolbar-background.png");
   background-position: 4px;
   background-repeat: repeat-x;
 
   border-top: 4px solid transparent;
-  border-image: url("../assets/window-border.png") 4;
+  border-image: url("./assets/window-border.png") 4;
 }
 
 .toolbar-close {
   width: 12px;
-  background-image: url("../assets/toolbar-close.png");
+  background-image: url("./assets/toolbar-close.png");
 }
 
 .toolbar-close:hover {
-  background-image: url("../assets/toolbar-close-active.png");
+  background-image: url("./assets/toolbar-close-active.png");
 }

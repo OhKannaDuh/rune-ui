@@ -2,7 +2,7 @@
   box-sizing: border-box;
   border: 4px solid transparent;
   padding-top: 8px;
-  border-image: url("../assets/window-border.png") 4;
-  background-image: url("../assets/window-background.jpg");
+  border-image: url("./assets/window-border.png") 4;
+  background-image: url("./assets/window-background.jpg");
   background-size: cover;
 }
