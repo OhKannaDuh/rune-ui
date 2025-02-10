@@ -1,6 +1,5 @@
 .button {
   box-sizing: border-box;
-  margin: 0px 12px;
   background-image: url("./assets/button-background.png");
   background-size: 100%;
   border: 2px solid transparent;
