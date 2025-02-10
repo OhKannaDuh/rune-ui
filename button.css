@@ -1,0 +1,13 @@
+.button {
+  box-sizing: border-box;
+  margin: 0px 12px;
+  background-image: url("../assets/button-background.png");
+  background-size: 100%;
+  border: 2px solid transparent;
+  border-image: url("../assets/button-border.png") 2;
+  color: #c9c9c9;
+}
+
+.button:hover {
+  color: gold;
+}
