@@ -1,0 +1,31 @@
+.rune-scroll::-webkit-scrollbar-button {
+  background-color: transparent;
+  -webkit-filter: contrast(1.25);
+  filter: contrast(1.25);
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 8px;
+  height: 8px;
+}
+
+.rune-scroll::-webkit-scrollbar-button:vertical:decrement {
+  background-image: url("./assets/scroll-up.png");
+  background-position: top;
+}
+
+.rune-scroll::-webkit-scrollbar-button:vertical:increment {
+  background-image: url("./assets/scroll-down.png");
+  background-position: bottom;
+}
+
+.rune-scroll::-webkit-scrollbar {
+  width: 8px;
+}
+
+.rune-scroll::-webkit-scrollbar-thumb {
+  border: 1px solid #644311;
+  box-sizing: border-box;
+  border-radius: 8px;
+  background: linear-gradient(to left, #bd790e, #e8bc3c, #e8bc3c, #e8bc3c);
+  padding: 0 4px;
+}
