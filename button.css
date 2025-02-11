@@ -11,6 +11,7 @@
   color: #c9c9c9;
 }
 
-.button:hover {
+.button:hover,
+.button.active {
   background-image: url("./assets/button-background-active.png");
 }
